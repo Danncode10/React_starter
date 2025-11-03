@@ -19,8 +19,9 @@ To get a copy of this project up and running on your local machine, follow these
 You can clone this repository using Git. It's recommended to clone it into a new directory named `React folder` to keep your projects organized.
 
 ```bash
-git clone [repository-url] "React folder"
+git clone https://github.com/Danncode10/React_starter.git "React folder"
 cd "React folder"
+rm -rf .git
 ```
 
 ### Uninitializing Git (Optional)
